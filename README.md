@@ -1,7 +1,7 @@
 # 
 
 # SPAPNet: Spatial Pyramidal Attention Parkinson’s tremor classification Network
-![Image text](https://github.com/zhz95/SPAPNet/blob/21f03c33c03231c6c4509c930c0de34f4582c71f/Framework.png)
+![Image text](https://github.com/mattz10966/SPAPNet/Framework.png)
 
 Pose-based Tremor Classification for Early-onset Parkinson’s Disease Diagnosis from Video
 
